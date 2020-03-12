@@ -1,0 +1,7 @@
+{
+    "y_random": false,
+    "x_random": false,
+    "min_size": 600,
+    "max_size": 1000,
+    "normalize": true
+}
